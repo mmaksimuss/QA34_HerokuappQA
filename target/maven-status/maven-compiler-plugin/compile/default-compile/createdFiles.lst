@@ -1,0 +1,6 @@
+com\herokuappqa\pages\BasePage.class
+com\herokuappqa\pages\HomePage.class
+com\herokuappqa\pages\AlertsPage.class
+com\herokuappqa\pages\SidePanel.class
+com\herokuappqa\pages\BrokenImagesPage.class
+com\herokuappqa\pages\DragAndDropPage.class

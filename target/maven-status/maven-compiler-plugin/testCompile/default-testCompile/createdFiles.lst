@@ -1,0 +1,4 @@
+com\herokuappqa\tests\BrokenImagesTest.class
+com\herokuappqa\tests\AlertsTests.class
+com\herokuappqa\tests\DragAndDropTest.class
+com\herokuappqa\tests\TestBase.class

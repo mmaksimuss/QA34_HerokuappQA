@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T16:26:10 CEST" name="Smoky" finished-at="2024-04-21T16:26:21 CEST" duration-ms="10119">
+    <groups>
+    </groups>
+    <test started-at="2024-04-21T16:26:10 CEST" name="Smoky" finished-at="2024-04-21T16:26:21 CEST" duration-ms="10119">
+      <class name="com.herokuappqa.tests.DragAndDropTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.herokuappqa.tests.DragAndDropTest@e7edb54]" started-at="2024-04-21T16:26:11 CEST" name="init" finished-at="2024-04-21T16:26:14 CEST" duration-ms="3344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.herokuappqa.tests.DragAndDropTest@e7edb54]" started-at="2024-04-21T16:26:14 CEST" name="precondition" finished-at="2024-04-21T16:26:14 CEST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="actionDragMeTest()[pri:0, instance:com.herokuappqa.tests.DragAndDropTest@e7edb54]" started-at="2024-04-21T16:26:14 CEST" name="actionDragMeTest" finished-at="2024-04-21T16:26:15 CEST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionDragMeTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.herokuappqa.tests.DragAndDropTest@e7edb54]" started-at="2024-04-21T16:26:15 CEST" name="tearDown" finished-at="2024-04-21T16:26:15 CEST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuappqa.tests.DragAndDropTest -->
+      <class name="com.herokuappqa.tests.BrokenImagesTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.herokuappqa.tests.BrokenImagesTest@25084a1e]" started-at="2024-04-21T16:26:15 CEST" name="init" finished-at="2024-04-21T16:26:18 CEST" duration-ms="2812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.herokuappqa.tests.BrokenImagesTest@25084a1e]" started-at="2024-04-21T16:26:18 CEST" name="precondition" finished-at="2024-04-21T16:26:18 CEST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="checkBrokenImagesTest()[pri:0, instance:com.herokuappqa.tests.BrokenImagesTest@25084a1e]" started-at="2024-04-21T16:26:18 CEST" name="checkBrokenImagesTest" finished-at="2024-04-21T16:26:20 CEST" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBrokenImagesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.herokuappqa.tests.BrokenImagesTest@25084a1e]" started-at="2024-04-21T16:26:20 CEST" name="tearDown" finished-at="2024-04-21T16:26:21 CEST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuappqa.tests.BrokenImagesTest -->
+    </test> <!-- Smoky -->
+  </suite> <!-- Smoky -->
+</testng-results>
